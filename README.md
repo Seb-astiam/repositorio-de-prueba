@@ -1,2 +1,2 @@
 # repositorio-de-prueba
-este es un respositorio de prueba
+este fue para clonar y subir 
